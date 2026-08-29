@@ -1,0 +1,57 @@
+about:
+  description: Task Manager with a TUI written in Python and usable by agents
+  license: MIT
+  homepage: 
+  head: 1f96443
+  archived: false
+  latestVersion: v0.21.2
+  collectedAt: 2026-08-29T07:19:11Z
+timeline:
+  created: 2024-08-20
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 275
+  watcher: 2
+  fork: 16
+  release: 21
+  contributor: 7
+  pullRequest: 5
+  issue: 67
+language:
+  Python: 619337
+  Makefile: 604
+totalLine: 619941
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 1
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 5
+  last90d:
+    since: 2026-05-31
+    release: 1
+    mergedPR: 1
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 8
+  last180d:
+    since: 2026-03-02
+    release: 6
+    mergedPR: 8
+    openPR: 1
+    closedIssue: 3
+    openIssue: 2
+    commit: 22
+  last360d:
+    since: 2025-09-03
+    release: 21
+    mergedPR: 57
+    openPR: 1
+    closedIssue: 43
+    openIssue: 5
+    commit: 418
