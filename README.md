@@ -1,24 +1,63 @@
 # kanban-tui
 
+[中文版本](./README.cn.md)
+
 Task Manager with a TUI written in Python and usable by agents
 
-- **Upstream**: <https://github.com/Zaloog/kanban-tui>
-- **Homepage**: <>
-- **Latest release**: `v0.21.2` (2026-08-28)
-- **Last commit**: 2026-08-28
-- **License**: MIT
-- **Stars**: 280 · **Forks**: 16 · **Open issues**: 68 · **Contributors**: 7
+![kanban-tui](https://repo.x-cmd.io/kanban-tui.svg)
 
-## Installation
+## Install
 
 ```sh
 x install kanban-tui
 ```
 
-See <https://x-cmd.com/install/kanban-tui> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/Zaloog/kanban-tui>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:31:47Z._
+- **Latest**: `v0.21.2` (2026-08-28)
+- **Last commit**: 2026-08-28
+- **Published**: 2026-08-28T16:11:01Z
+
+## Popularity
+
+- **Stars**: 281 · **Forks**: 16 · **Open issues**: 68 · **Contributors**: 7
+
+## Totals (cumulative)
+
+- **Releases**: 21 · **Merged PRs**: 67 · **Open PRs**: 1 · **Closed issues**: 62 · **Open issues**: 6 · **Commits**: 816
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 1 | 1 | 0 | 1 | 4 |
+| 90d | 2026-06-12 | 1 | 1 | 1 | 0 | 1 | 7 |
+| 360d | 2025-09-15 | 21 | 56 | 1 | 41 | 6 | 412 |
+
+## Code size
+
+Total: **15,293** lines of code across **102** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 14,948 | 861 | 3,066 | 91 |
+| Sql | 173 | 11 | 19 | 3 |
+| Toml | 111 | 9 | 20 | 6 |
+| Yaml | 39 | 0 | 3 | 1 |
+| Makefile | 22 | 5 | 9 | 1 |
+
+## Improve this data
+
+Install metadata for kanban-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kanban-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/kanban-tui.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:08:41Z._
