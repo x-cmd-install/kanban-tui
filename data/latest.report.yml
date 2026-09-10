@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.21.2"
   latestRelease: "v0.21.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:08:37Z
+  collectedAt: 2026-09-10T17:11:19Z
 timeline:
   created: 2024-08-20
   lastCommit: 2026-08-28
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-28
   lastPrerelease: 
 popularity:
-  star: 281
+  star: 282
   watcher: 2
   fork: 16
   release: 21
@@ -84,7 +84,7 @@ total:
   commit: 816
 ---
 path: /home/runner/.x-repo/github.com/Zaloog/kanban-tui
-collectedAt: 2026-09-10T05:08:38Z
+collectedAt: 2026-09-10T17:11:23Z
 loc:
   Python:
     code: 14948
