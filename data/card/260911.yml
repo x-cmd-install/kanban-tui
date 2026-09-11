@@ -129,4 +129,3 @@ total:
 ---
 
 ---
-{"id":378607678,"author":{"login":"Zaloog","id":57259263,"node_id":"MDQ6VXNlcjU3MjU5MjYz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOMlxsI84WkRg-","tag_name":"v0.21.2","target_commitish":"main","name":"v0.21.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-08-28T15:29:17Z","updated_at":"2026-08-28T16:11:01Z","published_at":"2026-08-28T16:11:01Z","assets":[],"body":"## What's Changed\n* Fix db/config env var path not being used when starting the app by @Zaloog in https://github.com/Zaloog/kanban-tui/pull/139\n\n\n**Full Changelog**: https://github.com/Zaloog/kanban-tui/compare/v0.21.1...v0.21.2","mentions_count":1}
