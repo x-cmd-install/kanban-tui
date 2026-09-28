@@ -46,12 +46,12 @@ Total: **15,293** lines of code across **102** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 1 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-29 | 1 | 1 | 2 | 0 | 1 | 5 |
-| 90d | 2026-06-29 | 1 | 1 | 2 | 0 | 1 | 6 |
-| last180d | 2026-03-31 | 4 | 2 | 2 | 1 | 1 | 12 |
-| 360d | 2025-10-02 | 21 | 50 | 2 | 39 | 6 | 341 |
-| last720d | 2024-10-07 | 21 | 67 | 2 | 62 | 6 | 660 |
+| 30d | 2026-08-29 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-07-30 | 1 | 1 | 2 | 0 | 1 | 5 |
+| 90d | 2026-06-30 | 1 | 1 | 2 | 0 | 1 | 6 |
+| last180d | 2026-04-01 | 3 | 2 | 2 | 1 | 1 | 12 |
+| 360d | 2025-10-03 | 21 | 50 | 2 | 39 | 6 | 341 |
+| last720d | 2024-10-08 | 21 | 67 | 2 | 62 | 6 | 660 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for kanban-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:42:33Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:48:37Z._
