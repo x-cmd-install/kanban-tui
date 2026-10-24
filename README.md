@@ -32,26 +32,26 @@ Total: **15,293** lines of code across **102** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.21.2` (2026-08-28)
-- **Last commit**: 2026-08-28
+- **Last commit**: 2026-10-23
 
 ## Popularity
 
-- **Stars**: 286 · **Forks**: 21 · **Open issues**: 68 · **Contributors**: 7
+- **Stars**: 285 · **Forks**: 21 · **Open issues**: 68 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 67 · **Open PRs**: 2 · **Closed issues**: 62 · **Open issues**: 6 · **Commits**: 816
+- **Releases**: 21 · **Merged PRs**: 67 · **Open PRs**: 2 · **Closed issues**: 62 · **Open issues**: 6 · **Commits**: 817
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 1 | 1 | 2 | 0 | 1 | 4 |
-| 90d | 2026-07-25 | 1 | 1 | 2 | 0 | 1 | 5 |
-| last180d | 2026-04-26 | 2 | 2 | 2 | 1 | 1 | 9 |
-| 360d | 2025-10-28 | 21 | 47 | 2 | 32 | 6 | 302 |
-| last720d | 2024-11-02 | 21 | 67 | 2 | 61 | 6 | 654 |
+| 30d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-25 | 1 | 1 | 2 | 0 | 1 | 5 |
+| 90d | 2026-07-26 | 1 | 1 | 2 | 0 | 1 | 6 |
+| last180d | 2026-04-27 | 2 | 2 | 2 | 0 | 1 | 10 |
+| 360d | 2025-10-29 | 21 | 47 | 2 | 32 | 6 | 303 |
+| last720d | 2024-11-03 | 21 | 67 | 2 | 61 | 6 | 655 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for kanban-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:03:44Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:57:41Z._
