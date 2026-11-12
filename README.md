@@ -14,13 +14,13 @@ x install kanban-tui
 
 ## Code insight
 
-Total: **15,293** lines of code across **102** files in the top 5 languages.
+Total: **15,517** lines of code across **102** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 14,948 | 861 | 3,066 | 91 |
+| Python | 15,171 | 854 | 3,096 | 91 |
 | Sql | 173 | 11 | 19 | 3 |
-| Toml | 111 | 9 | 20 | 6 |
+| Toml | 112 | 9 | 20 | 6 |
 | Yaml | 39 | 0 | 3 | 1 |
 | Makefile | 22 | 5 | 9 | 1 |
 
@@ -32,26 +32,26 @@ Total: **15,293** lines of code across **102** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.21.2` (2026-08-28)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-11-12
 
 ## Popularity
 
-- **Stars**: 288 · **Forks**: 23 · **Open issues**: 68 · **Contributors**: 7
+- **Stars**: 289 · **Forks**: 21 · **Open issues**: 68 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 67 · **Open PRs**: 3 · **Closed issues**: 62 · **Open issues**: 6 · **Commits**: 817
+- **Releases**: 21 · **Merged PRs**: 68 · **Open PRs**: 1 · **Closed issues**: 62 · **Open issues**: 6 · **Commits**: 829
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 0 | 1 | 0 | 0 | 1 |
-| last60d | 2026-09-12 | 0 | 0 | 2 | 0 | 0 | 1 |
-| 90d | 2026-08-13 | 1 | 1 | 3 | 0 | 1 | 5 |
-| last180d | 2026-05-15 | 1 | 1 | 3 | 0 | 1 | 9 |
-| 360d | 2025-11-16 | 21 | 45 | 3 | 32 | 6 | 269 |
-| last720d | 2024-11-21 | 21 | 66 | 3 | 60 | 6 | 613 |
+| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 7 |
+| last60d | 2026-09-13 | 0 | 1 | 0 | 0 | 0 | 12 |
+| 90d | 2026-08-14 | 1 | 2 | 1 | 0 | 1 | 16 |
+| last180d | 2026-05-16 | 1 | 2 | 1 | 0 | 1 | 20 |
+| 360d | 2025-11-17 | 21 | 46 | 1 | 32 | 6 | 280 |
+| last720d | 2024-11-22 | 21 | 67 | 1 | 60 | 6 | 625 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for kanban-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:47:39Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:40:37Z._
