@@ -36,7 +36,7 @@ Total: **15,517** lines of code across **102** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 290 · **Forks**: 21 · **Open issues**: 68 · **Contributors**: 8
+- **Stars**: 291 · **Forks**: 21 · **Open issues**: 68 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **15,517** lines of code across **102** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 0 | 0 | 0 | 0 | 11 |
-| last60d | 2026-09-20 | 1 | 1 | 0 | 0 | 0 | 16 |
-| 90d | 2026-08-21 | 2 | 2 | 0 | 0 | 1 | 20 |
-| last180d | 2026-05-23 | 2 | 2 | 0 | 0 | 1 | 24 |
-| 360d | 2025-11-24 | 21 | 44 | 0 | 33 | 5 | 257 |
-| last720d | 2024-11-29 | 22 | 67 | 0 | 61 | 5 | 625 |
+| 30d | 2026-10-21 | 1 | 0 | 0 | 0 | 0 | 11 |
+| last60d | 2026-09-21 | 1 | 1 | 0 | 0 | 0 | 16 |
+| 90d | 2026-08-22 | 2 | 2 | 0 | 0 | 1 | 20 |
+| last180d | 2026-05-24 | 2 | 2 | 0 | 0 | 1 | 24 |
+| 360d | 2025-11-25 | 21 | 43 | 0 | 33 | 5 | 257 |
+| last720d | 2024-11-30 | 22 | 67 | 0 | 61 | 5 | 625 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for kanban-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:10:10Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:49:39Z._
