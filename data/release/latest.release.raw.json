@@ -41,5 +41,17 @@
   "tarball_url": "https://api.github.com/repos/Zaloog/kanban-tui/tarball/v0.22.0",
   "zipball_url": "https://api.github.com/repos/Zaloog/kanban-tui/zipball/v0.22.0",
   "body": "## What's Changed\n* Add inline task filtering by @Qwa-Tech in https://github.com/Zaloog/kanban-tui/pull/141\n\n## New Contributors\n* @Qwa-Tech made their first contribution in https://github.com/Zaloog/kanban-tui/pull/141\n\n**Full Changelog**: https://github.com/Zaloog/kanban-tui/compare/v0.21.2...v0.22.0",
+  "reactions": {
+    "url": "https://api.github.com/repos/Zaloog/kanban-tui/releases/449606798/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 1
 }
